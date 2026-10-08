@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ozan
 
-<!--
-**ozanbilmez/ozanbilmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer engineering graduate (Ankara University) working at the intersection of machine learning and quantum computing. I'm currently on a self-directed 12-week program covering quantum software, post-quantum cryptography, ML and product engineering.
 
-Here are some ideas to get you started:
+## Experience and competitions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MIT iQuHACK 2026, Team Perseverance
+- TEKNOFEST 2025 Quantum Technologies, Sebat Takımı (5th in Turkey)
+- Intern, Digital Transformation Technologies, Cavo Otomotiv
+
+## What I'm building
+
+| Repo | What it is |
+| --- | --- |
+| [quantum-algorithms-lab](https://github.com/ozanbilmez/quantum-algorithms-lab) | Qiskit notebooks: Bloch sphere, entanglement, CHSH, teleportation |
+| [crypto-fundamentals](https://github.com/ozanbilmez/crypto-fundamentals) | Number theory, GF(2^8) and block cipher modes in Python |
+| [ml-end-to-end](https://github.com/ozanbilmez/ml-end-to-end) | Store Sales forecasting: features, leakage-safe validation |
+| [quantum-playground](https://github.com/ozanbilmez/quantum-playground) | Browser-based quantum circuit builder (FastAPI + React) |
+| [dsa-practice](https://github.com/ozanbilmez/dsa-practice) | Weekly data structures and algorithms practice |
+
+## Looking for
+
+Software engineering, AI/ML, and defense-industry R&D roles.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ozan-bilmez-226a99323)
